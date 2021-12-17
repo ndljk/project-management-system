@@ -1,0 +1,113 @@
+.title {
+  color: rgb(80, 75, 75);
+  text-align: center;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+}
+
+h1.title {
+  color: rgb(65, 117, 87);
+}
+
+.main {
+  background-image: url("image.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  overflow-x: hidden;
+  background-attachment: fixed;
+  height: auto;
+  width: auto;
+  align-content: center;
+}
+
+.nav-button {
+  display: inline;
+}
+
+.headerKartice {
+  margin-top: 3%;
+}
+
+.reg.container-sm {
+  margin-top: 0 !important;
+}
+
+.container-sm {
+  background-color: rgba(192, 192, 192, 0.8);
+  min-width: max-content;
+  margin-top: 5% !important;
+}
+
+hr {
+  margin-top: 10px;
+  border-top: 3px solid black;
+}
+
+.btn-success {
+  background-color: rgb(65, 117, 87);
+}
+
+.row {
+  min-width: max-content;
+}
+
+.form-control {
+  width: 60%;
+  margin-left: 20%;
+}
+
+.natpis {
+  margin-left: 20%;
+}
+
+.dugme {
+  text-align: center;
+}
+.logout {
+  position: absolute;
+  right: 0px;
+}
+
+.bi {
+  padding: 0px;
+  margin-top: 0px;
+}
+
+.naslovnaLinija {
+  background-color: rgba(192, 192, 192, 0.8);
+  height: 40px;
+  width: 100%;
+  margin: 0px;
+  position: fixed;
+  left: 0px;
+}
+
+.dodajProjekat {
+  margin: 8px 8px 8px 30px;
+  font-size: 15px;
+  color: black;
+  display: block;
+}
+
+.button-right-margin {
+  margin-right: 25px !important;
+}
+
+.navbar-padding {
+  padding: 0 !important;
+}
+
+#pojamZaPretragu {
+  margin-top: 15px;
+}
+
+.images {
+  opacity: 0.5;
+}
+
+.dobrodosli {
+  margin-top: 15%;
+}
+
+.multiselectMargin {
+  margin-right: 20%;
+}
